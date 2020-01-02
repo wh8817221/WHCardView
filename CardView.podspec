@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CardView"
-  spec.version      = "1.0"
+  spec.version      = "1.0.0"
   spec.summary      = "高性能的SelectItem"
   spec.homepage     = "https://github.com/wh8817221/CardView"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
